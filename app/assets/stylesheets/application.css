@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+ h1{
+  margin-bottom: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+.sender{
+  font-style: italic;
+}
+
+.message{
+  margin-left: 20px;
+  padding-left: 15px;
+  border-left: solid 5px rgb(130, 129, 129);
+}
+
+#coach-answer{
+  padding: 10px;
+  background-color: #f8e14e6d;
+}
+
+#coach-message{
+  font-weight: bold;
+}
+
+.container-fluid{
+  width: 75%;
+}
+
+.input{
+  margin-bottom: 10px;
+}
+
+
